@@ -1,6 +1,6 @@
 # Interactive Quiz App
 
-![Quiz App Banner](screenshots/home.png)
+![Quiz App Banner](screenshots/quiz.png)
 
 ## 📌 Overview
 
@@ -52,13 +52,13 @@ quiz-app/
 
 > Add your GitHub Pages link here after deployment
 
-**Example:** `https://yourusername.github.io/quiz-app/`
+**Example:** `https://Usershruthi23.github.io/quiz-app/`
 
 ## 📂 GitHub Repository
 
 > Add your repository link here
 
-**Example:** `https://github.com/yourusername/quiz-app`
+**Example:** `https://github.com/Usershruthi/quiz-app`
 
 ## 🚀 Deployment (GitHub Pages)
 
@@ -66,15 +66,17 @@ quiz-app/
 2. Go to **Settings → Pages**
 3. Under **Branch**, select `main` and folder `/root`
 4. Click **Save**
-5. Your app will be live at `https://yourusername.github.io/quiz-app/`
+5. Your app will be live at `https://Usershruthi23.github.io/quiz-app/`
 
 ## 📸 Screenshots
 
  Home Screen 
-
+![home screen](homepage1.png)
+![home screen2](homepage2.png)
  Quiz Screen 
-
+![quiz screen](quizscreen1.png)
  Result Screen 
+ ![result screen](resultscreen.png)
 
 ## 🎯 Learning Objectives Demonstrated
 
@@ -89,5 +91,5 @@ quiz-app/
 
 ## 👨‍💻 Author
 
-> Add your name and contact links here
+>Gudise Shruthi
 
